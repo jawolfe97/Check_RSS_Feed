@@ -1,0 +1,2 @@
+NYTimes Main - https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+CBS Main - https://www.cbsnews.com/latest/rss/main
