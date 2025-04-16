@@ -1,2 +1,13 @@
-NYTimes Main - https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
-CBS Main - https://www.cbsnews.com/latest/rss/main
+Newspapers
+Wall Street Journal LifeStyle - https://feeds.content.dowjones.io/public/rss/RSSLifestyle 
+NPR New Now - https://feeds.npr.org/500005/podcast.xml 
+New York Times US - https://rss.nytimes.com/services/xml/rss/nyt/US.xml
+Podcasts
+Canine Conversations - https://robertcabral.libsyn.com/rss
+The Dog Trainer's Quick and Dirty Tips - https://feeds.simplecast.com/_qkDpm8v
+Your New Puppy - https://www.playtimepaws.com/feed/podcast/
+Cattitude - https://feeds.feedburner.com/Petliferadiocom-Cattitude
+The Community Cats Podcast - https://feeds.libsyn.com/83608/rss
+It's a Doggy Dog World - https://feeds.feedburner.com/Petliferadiocom-ItsADoggyDogWorld
+The Cone of Shame - https://feeds.blubrry.com/feeds/3832093.xml 
+My Dog Made Me Do It...Naturally! - https://media.rss.com/mydogmademedoitnaturally/feed.xml
