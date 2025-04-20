@@ -1,0 +1,77 @@
+Link to Code: https://github.com/jawolfe97/Check_RSS_Feed
+Link to Join the Peptide Chemistry Journal Club - https://www.linkedin.com/groups/13176169/
+Current Publisher Portfolio: ACS, RSC, Wiley, BioRxiv, ChemRxiv, Frontiers, AAAS, Nature Portfolio
+Coming Soon: Elisever, Taylor & Francis, SAGE Publications, Oxford University Press, Cambridge University Press, PLOS, MDPI
+==========
+Newspapers
+==========
+---------------------------------------------------------------------------------------------------------
+Source: Wall Street Journal LifeStyle
+Titles:
+Detected Feed Type: rss20
+- An Escape to Maui, Minus the Mai-Tai Crowd
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Source: NPR New Now
+Titles:
+Detected Feed Type: rss20
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Source: New York Times US
+Titles:
+Detected Feed Type: rss20
+- The Face of Catholicism in the United States Has Changed. Here’s How.
+---------------------------------------------------------------------------------------------------------
+========
+Podcasts
+========
+---------------------------------------------------------------------------------------------------------
+Source: Canine Conversations
+Titles:
+Detected Feed Type: rss20
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Source: The Dog Trainer's Quick and Dirty Tips
+Titles:
+Detected Feed Type: rss20
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Source: Your New Puppy
+Titles:
+Detected Feed Type: rss20
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Source: Cattitude
+Titles:
+Detected Feed Type: rss20
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Source: The Community Cats Podcast
+Titles:
+Detected Feed Type: rss20
+- Tackling Global Animal Welfare Challenges Featuring John Peaveler of Humane Innovations, LLC
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Source: It's a Doggy Dog World
+Titles:
+Detected Feed Type: rss20
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Source: The Cone of Shame
+Titles:
+Detected Feed Type: rss20
+- 325 - On Becoming the Vet Eye Guy
+- 324 - Age of Innovation in Veterinary Diagnostics
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+Source: My Dog Made Me Do It...Naturally!
+Titles:
+Detected Feed Type: rss20
+---------------------------------------------------------------------------------------------------------
+=======
+Summary
+=======
+Total Feeds Processed: 11
+Total Relevant Feeds: 10
+Total Entries Checked: 1965
+Total Relevant Entries: 5
