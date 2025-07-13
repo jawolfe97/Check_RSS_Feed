@@ -7,3 +7,7 @@ Feeder.py - Using an existing list of working and relevant links to RSS feeds an
 Screener.py - Using an existing list of links to RSS feeds and a list of keywords, return the relevant feeds and compile statistics. Used to build Feeds.txt file for Feeder.py
 
 Finder.py - Using a family of links to RSS feeds defined by a set alphanumberic pattern,  brute-force check every possible patern as fast as possible with multi-threading and return the relevant feeds and compile statistics. Used to build Feeds.txt file for Screener.py
+
+## Acknowledgments
+
+Parts of this code were generated or assisted by OpenAI's ChatGPT (GPT-4), based on user prompts. All generated code was reviewed and modified for correctness and performance.
